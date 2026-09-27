@@ -2,6 +2,10 @@
 
 A real-progress **loading bar for Firefox's address bar**, with a breathing glow at its tip.
 
+![The loading bar on YouTube, X and Reddit](demo.gif)
+
+*Real loads of YouTube, X and Reddit on Firefox 156, recorded at normal speed. Each bar moves at that site's real pace.*
+
 Chromium-based browsers like Helium show a thin progress bar along the bottom of the address bar while a page loads. Firefox doesn't. This adds one that:
 
 - **Follows the page's real loading progress.** It moves when the page is actually loading something, and stalls when the site stalls.
